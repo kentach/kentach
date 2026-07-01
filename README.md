@@ -59,6 +59,23 @@ Github: [こちら](https://github.com/kentach/WhatsMyHomework)
 
 Github: [こちら](https://github.com/kentach/Listener)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/image5.png" width="180"><br>
+      英検スコア記録
+    </td>
+    <td align="center">
+      <img src="images/image6.png" width="180"><br>
+      音読トレーニング
+    </td>
+    <td align="center">
+      <img src="images/image7.png" width="180"><br>
+      完了・お気に入り
+    </td>
+  </tr>
+</table>
+
 **technology**
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
