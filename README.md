@@ -24,7 +24,7 @@ Github: [こちら](https://github.com/kentach/WhatsMyHomework)
     </td>
     <td align="center">
       <img src="images/image3.png" width="180"><br>
-      マイタスク
+      タスク管理
     </td>
     <td align="center">
       <img src="images/image1.png" width="180"><br>
@@ -38,14 +38,37 @@ Github: [こちら](https://github.com/kentach/WhatsMyHomework)
 </table>
 
 **technology**
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,docker)](https://skillicons.dev)
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 --- 
 
 ### [英語音読トレーニングアプリ Listener](https://listener-2026.onrender.com/)
 
+前職の英会話スクールで感じた「音声ダウンロードの不便さ」「単語に偏った学習」「音読学習の継続の難しさ」を解決するために開発した、英語音読トレーニングアプリです。
+
+ユーザーがいつでも音読練習に取り組める環境を提供し、学習履歴や達成状況を可視化することで、継続的な英語学習をサポートします。
+
 Github: [こちら](https://github.com/kentach/Listener)
 
 **technology**
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,docker)](https://skillicons.dev)
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
