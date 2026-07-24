@@ -26,6 +26,7 @@ I graduated from an online programming school, RUNTEQ while working as an Englis
 本アプリは、こうした課題を解決するために開発した英会話スクール向けの宿題管理アプリです。生徒・保護者・講師が宿題やお知らせをオンラインで共有でき、より効率的な学習管理を実現します。
 
 Github: [こちら](https://github.com/kentach/WhatsMyHomework)
+
 テーブル設計・技術選定について: [こちら](https://note.com/kenta234/n/n06a74c22724d)
 
 <table>
